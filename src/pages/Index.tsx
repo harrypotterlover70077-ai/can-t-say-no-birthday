@@ -9,28 +9,32 @@ import { CelebrationScreen } from "@/components/CelebrationScreen";
 // Customize these questions for your fiancée!
 const questions = [
   {
-    question: "Do you know that Allah has blessed me with the most beautiful future wife?",
+    question: "Do you know that ALLAH has blessed me with the most beautiful future wife?",
     catEmoji: "😻",
   },
   {
-    question: "Will you accept my endless duas for your happiness?",
+    question: "Will you stay with me forever, In Shaa Allah?",
+    catEmoji: "💕",
+  },
+  {
+    question: "Will you be the mother of my kids? 😄",
+    catEmoji: "👶",
+  },
+  {
+    question: "Will you let me be your partner in Jannah too?",
+    catEmoji: "🌟",
+  },
+  {
+    question: "Will you let me take care of you forever and ever?",
     catEmoji: "🤲",
   },
   {
-    question: "Do you promise to let me make your special day wonderful?",
-    catEmoji: "🐱",
+    question: "Do you really love me?",
+    catEmoji: "❤️",
   },
   {
-    question: "Are you ready to build a blessed home together, In Shaa Allah?",
-    catEmoji: "🏠",
-  },
-  {
-    question: "Do you appreciate me as much as cats appreciate warm sunny spots?",
-    catEmoji: "😸",
-  },
-  {
-    question: "Are you ready to make a birthday wish and say Bismillah?",
-    catEmoji: "✨",
+    question: "Are you ready now to blow your birthday candles?",
+    catEmoji: "🎂",
   },
 ];
 
